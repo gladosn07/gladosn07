@@ -24,6 +24,7 @@ I really like the disciplines of application design and architecture and I usual
 
 - 📍 From Mg living in Ipatinga
 - 💻 Front-End engineer at [Uninter](https://www.uninter.com/)
+- 💻 Website developer for clothing sample [Hono-Modas](https://honomodas.000webhostapp.com/)
 - 
 Reach me out 👇🏼
 
