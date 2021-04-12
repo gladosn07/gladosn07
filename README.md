@@ -30,6 +30,7 @@ Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gladson-venancio-3190291a0//)](https://www.linkedin.com/in/gladson-venancio-3190291a0/) 
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ofinamore07/)
+<br/>
   <a href="mailto:gladsonfinamore@gmail.com">
         <img src="https://img.shields.io/badge/-gmail-white?style=flat-square&logo=gmail&logoColor=red&white=mailto:gladsonfinamore@gmail.com">
     </a>
