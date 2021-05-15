@@ -18,7 +18,11 @@ I really like the disciplines of application design and architecture and I usual
 [![CSS 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/standards/webdesign/htmlcss.html)
 [![VueJs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08d)](https://vuejs.org)
 [![JavaScript](https://img.shields.io/badge/Javascript-e1af24?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![ReactJs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/bootstrap-purple?style=for-the-badge&logo=html5&logoColor=white)](https://getbootstrap.com/)
+
+### Banco de Dados
+[![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 
 ### 🌍 "Quanto mais eu sei, mais eu sou" 
