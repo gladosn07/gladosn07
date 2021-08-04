@@ -30,7 +30,7 @@ I really like the disciplines of application design and architecture and I usual
 - 📍 From Mg living in Ipatinga
 - 💻 Front-End engineer at [Uninter](https://www.uninter.com/)
 - 💻 Website developer for clothing sample [Hono-Modas](https://honomodas.000webhostapp.com/)
-- 
+- 💻 Portifólio https://gladsonfinamore.netlify.app/
 Reach me out 👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gladson-venancio-3190291a0//)](https://www.linkedin.com/in/gladson-venancio-3190291a0/) 
