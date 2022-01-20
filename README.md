@@ -14,8 +14,9 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ## 🎓 About Me
 
-I am a Developer and Programmer with 23 years.
-I really like the disciplines of application design and architecture and I usually exercise strong support in this task with the times, other leaders and architects. In addition, I move well between the technical and strategic areas of the company, facilitating communication with c-levels and product managers in order to quickly translate business ambitions into strategies that are scalable and valuable software.
+I am a Analyst and Developer with 24 years.
+I really like the disciplines of application design and architecture and I usually exercise strong support in this task with the times, other leaders and architects. In addition, I move well between the technical and strategic areas of the company, facilitating communication with c-levels and product managers in order to quickly translate business ambitions into strategies that are scalable and valuable software, responsible for analyzing data with Power BI, approving access profiles with Solution Manager and requests with SysAd among other SAP applications, implementing SAP/HANA and carrying out test packages in the SAP environment, reports spreadsheets and project deliveries to management with optimization and quality, implementation of IOT to improve the automation of processes and alignment of needs with corresponding sectors.
+
 
 ## 🚀 My Specialty
 
